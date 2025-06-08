@@ -15,9 +15,9 @@ A C++ implementation of a parser that verifies whether input strings conform to 
 
 ## Grammar Rules
 
-The parser implements the following grammar:\n
-E → E + T | T \n
-T → T * F | F \n
+The parser implements the following grammar:<br>
+E → E + T | T <br>
+T → T * F | F <br>
 F → ( E ) | a
 
 
